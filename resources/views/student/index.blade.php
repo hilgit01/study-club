@@ -14,6 +14,7 @@
             <th>Nama    </th>
             <th>Prodi   </th>
             <th>Angkatan</th>
+            <th>test</th>
             <th>Alamat  </th>
             <th>Action  </th>
         </tr>
